@@ -1,0 +1,349 @@
+{
+  "data": [{
+    "id": 1,
+    "name": "Mahalapye",
+    "qualifier": {
+      "time": "2019-05-14",
+      "group": [{
+          "name": "a",
+          "round": [
+            [
+              [
+                "Saturday, 14 May 2019, 14.00 PM",
+                [{
+                    "id": 1,
+                    "name": "Kihn and Sons",
+                    "img_url": "http://dummyimage.com/127x133.jpg/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/223x179.jpg/cc0000/ffffff",
+                    "result": false
+                  },
+                  {
+                    "id": 2,
+                    "name": "Rolfson LLC",
+                    "img_url": "http://dummyimage.com/134x178.bmp/ff4444/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/148x162.bmp/dddddd/000000",
+                    "result": true
+                  }
+                ]
+              ],
+              [
+                "Saturday, 14 May 2019, 15.00 PM",
+                [{
+                    "id": 3,
+                    "name": "Treutel, Parker and Will",
+                    "img_url": "http://dummyimage.com/106x191.bmp/ff4444/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/185x165.jpg/dddddd/000000",
+                    "result": true
+                  },
+                  {
+                    "id": 4,
+                    "name": "Lynch LLC",
+                    "img_url": "http://dummyimage.com/219x122.bmp/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/159x203.jpg/ff4444/ffffff",
+                    "result": false
+                  }
+                ]
+              ],
+              [
+                "Saturday, 14 May 2019, 16.00 PM",
+                [{
+                    "id": 5,
+                    "name": "Kertzmann, Lesch and Hahn",
+                    "img_url": "http://dummyimage.com/164x107.png/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/193x196.png/5fa2dd/ffffff",
+                    "result": true
+                  },
+                  {
+                    "id": 6,
+                    "name": "Runolfsdottir, Kovacek and Kohler",
+                    "img_url": "http://dummyimage.com/123x145.png/ff4444/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/106x124.bmp/ff4444/ffffff",
+                    "result": false
+                  }
+                ]
+              ],
+              [
+                "Saturday, 14 May 2019, 17.00 PM",
+                [{
+                    "id": 7,
+                    "name": "Halvorson-Schneider",
+                    "img_url": "http://dummyimage.com/250x203.png/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/124x239.jpg/ff4444/ffffff",
+                    "result": false
+                  },
+                  {
+                    "id": 8,
+                    "name": "Fadel Inc",
+                    "img_url": "http://dummyimage.com/159x136.bmp/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/144x170.png/cc0000/ffffff",
+                    "result": true
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                "Sunday, 15 May 2019, 14.00 PM",
+                [{
+                    "id": 2,
+                    "name": "Rolfson LLC",
+                    "img_url": "http://dummyimage.com/134x178.bmp/ff4444/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/148x162.bmp/dddddd/000000",
+                    "result": true
+                  },
+                  {
+                    "id": 3,
+                    "name": "Treutel, Parker and Will",
+                    "img_url": "http://dummyimage.com/106x191.bmp/ff4444/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/185x165.jpg/dddddd/000000",
+                    "result": false
+                  }
+                ]
+              ],
+              [
+                "Sunday, 15 May 2019, 15.00 PM",
+                [{
+                    "id": 5,
+                    "name": "Kertzmann, Lesch and Hahn",
+                    "img_url": "http://dummyimage.com/164x107.png/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/193x196.png/5fa2dd/ffffff",
+                    "result": false
+                  },
+                  {
+                    "id": 8,
+                    "name": "Fadel Inc",
+                    "img_url": "http://dummyimage.com/159x136.bmp/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/144x170.png/cc0000/ffffff",
+                    "result": true
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                "Monday, 16 May 2019, 14.00 PM",
+                [{
+                    "id": 2,
+                    "name": "Rolfson LLC",
+                    "img_url": "http://dummyimage.com/134x178.bmp/ff4444/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/148x162.bmp/dddddd/000000",
+                    "result": true
+                  },
+                  {
+                    "id": 8,
+                    "name": "Fadel Inc",
+                    "img_url": "http://dummyimage.com/159x136.bmp/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/144x170.png/cc0000/ffffff",
+                    "result": false
+                  }
+                ]
+              ]
+            ]
+          ]
+        },
+        {
+          "name": "b",
+          "round": [
+            [
+              [
+                "Saturday, 14 May 2019, 14.00 PM",
+                [{
+                    "id": 9,
+                    "name": "Sam Son",
+                    "img_url": "http://dummyimage.com/127x133.jpg/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/223x179.jpg/cc0000/ffffff",
+                    "result": true
+                  },
+                  {
+                    "id": 10,
+                    "name": "Bul Dog",
+                    "img_url": "http://dummyimage.com/134x178.bmp/ff4444/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/148x162.bmp/dddddd/000000",
+                    "result": false
+                  }
+                ]
+              ],
+              [
+                "Saturday, 14 May 2019, 15.00 PM",
+                [{
+                    "id": 11,
+                    "name": "Tinker",
+                    "img_url": "http://dummyimage.com/106x191.bmp/ff4444/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/185x165.jpg/dddddd/000000",
+                    "result": true
+                  },
+                  {
+                    "id": 12,
+                    "name": "Bell",
+                    "img_url": "http://dummyimage.com/219x122.bmp/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/159x203.jpg/ff4444/ffffff",
+                    "result": false
+                  }
+                ]
+              ],
+              [
+                "Saturday, 14 May 2019, 16.00 PM",
+                [{
+                    "id": 13,
+                    "name": "Spy",
+                    "img_url": "http://dummyimage.com/164x107.png/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/193x196.png/5fa2dd/ffffff",
+                    "result": true
+                  },
+                  {
+                    "id": 14,
+                    "name": "Doll",
+                    "img_url": "http://dummyimage.com/123x145.png/ff4444/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/106x124.bmp/ff4444/ffffff",
+                    "result": false
+                  }
+                ]
+              ],
+              [
+                "Saturday, 14 May 2019, 17.00 PM",
+                [{
+                    "id": 15,
+                    "name": "Lay",
+                    "img_url": "http://dummyimage.com/250x203.png/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/124x239.jpg/ff4444/ffffff",
+                    "result": false
+                  },
+                  {
+                    "id": 16,
+                    "name": "Seer",
+                    "img_url": "http://dummyimage.com/159x136.bmp/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/144x170.png/cc0000/ffffff",
+                    "result": true
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                "Sunday, 15 May 2019, 14.00 PM",
+                [{
+                    "id": 9,
+                    "name": "Sam Son",
+                    "img_url": "http://dummyimage.com/127x133.jpg/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/223x179.jpg/cc0000/ffffff",
+                    "result": true
+                  },
+                  {
+                    "id": 11,
+                    "name": "Tinker",
+                    "img_url": "http://dummyimage.com/106x191.bmp/ff4444/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/185x165.jpg/dddddd/000000",
+                    "result": false
+                  }
+                ]
+              ],
+              [
+                "Sunday, 15 May 2019, 15.00 PM",
+                [{
+                    "id": 13,
+                    "name": "Spy",
+                    "img_url": "http://dummyimage.com/164x107.png/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/193x196.png/5fa2dd/ffffff",
+                    "result": false
+                  },
+                  {
+                    "id": 16,
+                    "name": "Seer",
+                    "img_url": "http://dummyimage.com/159x136.bmp/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/144x170.png/cc0000/ffffff",
+                    "result": true
+                  }
+                ]
+              ]
+            ],
+            [
+              [
+                "Monday, 16 May 2019, 14.00 PM",
+                [{
+                    "id": 9,
+                    "name": "Sam Son",
+                    "img_url": "http://dummyimage.com/127x133.jpg/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/223x179.jpg/cc0000/ffffff",
+                    "result": true
+                  },
+                  {
+                    "id": 16,
+                    "name": "Seer",
+                    "img_url": "http://dummyimage.com/159x136.bmp/5fa2dd/ffffff",
+                    "img_url_fmt": "http://dummyimage.com/144x170.png/cc0000/ffffff",
+                    "result": false
+                  }
+                ]
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    "playoff": {
+      "time": "2019-05-14",
+      "round": [
+        [
+          [
+            "Monday, 16 May 2019, 14.00 PM",
+            [{
+                "id": 2,
+                "name": "Rolfson LLC",
+                "img_url": "http://dummyimage.com/134x178.bmp/ff4444/ffffff",
+                "img_url_fmt": "http://dummyimage.com/148x162.bmp/dddddd/000000",
+                "result": true
+              },
+              {
+                "id": 9,
+                "name": "Sam Son",
+                "img_url": "http://dummyimage.com/127x133.jpg/5fa2dd/ffffff",
+                "img_url_fmt": "http://dummyimage.com/223x179.jpg/cc0000/ffffff",
+                "result": false
+              }
+
+            ],
+            [
+              "Monday, 16 May 2019, 14.00 PM",
+              [{
+                  "id": 8,
+                  "name": "Fadel Inc",
+                  "img_url": "http://dummyimage.com/159x136.bmp/5fa2dd/ffffff",
+                  "img_url_fmt": "http://dummyimage.com/144x170.png/cc0000/ffffff",
+                  "result": true
+                },
+                {
+                  "id": 16,
+                  "name": "Seer",
+                  "img_url": "http://dummyimage.com/159x136.bmp/5fa2dd/ffffff",
+                  "img_url_fmt": "http://dummyimage.com/144x170.png/cc0000/ffffff",
+                  "result": false
+                }
+              ]
+            ]
+          ]
+        ],
+
+        [
+          [
+            "Monday, 16 May 2019, 14.00 PM",
+            [{
+                "id": 2,
+                "name": "Rolfson LLC",
+                "img_url": "http://dummyimage.com/134x178.bmp/ff4444/ffffff",
+                "img_url_fmt": "http://dummyimage.com/148x162.bmp/dddddd/000000",
+                "result": false
+              },
+              {
+                "id": 8,
+                "name": "Fadel Inc",
+                "img_url": "http://dummyimage.com/159x136.bmp/5fa2dd/ffffff",
+                "img_url_fmt": "http://dummyimage.com/144x170.png/cc0000/ffffff",
+                "result": true
+              }
+            ]
+          ]
+        ]
+      ]
+    }
+  }]
+}
