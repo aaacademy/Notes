@@ -50,3 +50,15 @@ class App extends Component {
   }
 }
 ```
+
+## Mengirim params dari router
+```javascript
+<Route path='/about/:name' exact component={AboutView} />
+```
+
+```javascript
+function AboutView({ match }) {
+  return <h2>About {match.params.name} </h2>
+}
+```
+```
