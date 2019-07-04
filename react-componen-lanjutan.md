@@ -38,5 +38,18 @@ class Button extends Component {
 }
 ```
 
+Agar context dapat dipanggil dimanapun gunakan kode berikut
+```javascript
+class Button extends Component {
+  static contextType = MyContext
+  render() {
+    let value = this.context
+    return (
+      <button>Dengan nilai: {value} </button>
+    )
+  }
+}
+```
+
 
 
