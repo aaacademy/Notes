@@ -52,13 +52,15 @@ class App extends Component {
 ```
 
 ## Mengirim params dari router
+Init params yang akan ditrigger, contoh disini `:name`
 ```javascript
 <Route path='/about/:name' exact component={AboutView} />
 ```
+
+Init params diterima dalam `props` dengan nama `match`, lalu gunakan dengan `match.params.` + nama init params
 
 ```javascript
 function AboutView({ match }) {
   return <h2>About {match.params.name} </h2>
 }
-```
 ```
