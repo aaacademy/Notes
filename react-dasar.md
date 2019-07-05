@@ -12,6 +12,7 @@ Pada React sendiri memiliki beberapa hal dasar yang harus dipahami:
 Component dalam react dapat dibuat dengan 2 cara, yatu dengan membuat class atau dengan membuat function. Tapi apa bedanya class dengan function pasti memiliki kelebihan masing-masing.
 
 1. Dengan class
+
 ```javascript
 import React, { Component } from 'react'
 
@@ -31,16 +32,17 @@ class App extends Component {
 }
 
 export default App
-``
+```
 
 2. Dengan function
+
 ```javascript
 import React, { Component } from 'react'
 
 const Hello = ({ name }) => (<div>Hello, {name}!</div>);
 
 export default Hello
-``
+```
 
 Lantas bagai mana cara mengaksesnya?
 Okay, cara mengakses komponent adalah dengan menjaikannya sebagai tag HTML, contoh component Hello akan diakses menjadi `<Hello />`
