@@ -56,4 +56,19 @@ Props adalah cara komponent mengoper data ang berasal dari parent ke child denga
 Dari component diatas misal sebuah komponent yang berisi komponent `Hello`, maka itu akan menurunkan data pada component `Hello` dengan props dengan `key` **name** dan `value` **Asrul**
 
 ## State
+```javascript
+state = {
+  name: ''
+}
+```
+```javascript
+this.setSetate({
+  name: 'Asrul'
+}, callback)
+```
+
 ## Lifecycle
+React sendiri memiliki siklus hidup kompenen, maksudnya saat kapan aksi itu akan dijalankan.
+- componentDidMount()
+- componentWillMount()
+- componentDidUpdate(prevProps, prevState)
