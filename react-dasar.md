@@ -1,6 +1,6 @@
 # React Dasar
 
-Kalau ksta facebook sih, react itu hanaya library kecil yang membantu menghilangkan rasa sakit saat membangun UI pada web atau mobile.
+Kalau kata facebook sih, react itu hanaya library kecil yang membantu menghilangkan rasa sakit saat membangun UI pada web atau mobile.
 
 Pada React sendiri memiliki beberapa hal dasar yang harus dipahami:
 1. Comoponent
