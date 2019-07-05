@@ -1,4 +1,4 @@
-# React Component Lanjutan
+# React Context
 
 ## Composition
 React `props.children`: Apapun yang bedada diantara component merupakan children
