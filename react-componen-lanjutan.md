@@ -38,7 +38,7 @@ class Button extends Component {
 }
 ```
 
-Agar context dapat dipanggil dimanapun gunakan kode berikut
+Agar context dapat dipanggil dimanapun seperti lifecycle gunakan kode berikut
 ```javascript
 class Button extends Component {
   static contextType = MyContext
@@ -51,5 +51,7 @@ class Button extends Component {
 }
 ```
 
+## Hoc - High Order Component
+Merupakan fungsi yang merender component dan penggunaannya pada export namaFungsi(App)
 
 
