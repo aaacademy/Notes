@@ -11,7 +11,10 @@ composer create-project --prefer-dist laravel/laravel learnLara
 php artisan serve
 ```
 
-## Lakukan Migrate Untuk Pertamakali
+## Lakukan Migrate Untuk Pertama kali
+```bash
+php artisan migrate
+```
 
 Jika error, maka setting database dengan kode berikut pada **`App\Provider\AppServiceProvider.php`**
 ```php
@@ -45,3 +48,9 @@ class AppServiceProvider extends ServiceProvider
     }
 }
 ```
+
+## Auth dari Laravel
+```bash
+php artisan make:auth
+```
+
