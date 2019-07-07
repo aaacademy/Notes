@@ -54,3 +54,11 @@ class AppServiceProvider extends ServiceProvider
 php artisan make:auth
 ```
 
+Secara default role user belum diatur, untuk membuat user memiliki role lakukan langkah berikut
+```bash
+php artisan make:model Role -m
+php artisan make:model UserRole -m
+```
+
+
+
