@@ -19,3 +19,25 @@ Adapun operator yang lain selain operator + adalah sebagai berikut.
 1. Operator - yang berfungsi sebagai operator pengurangan,
 2. Operator * yang berfungsi sebagai operator perkalian, dan
 3. Operator ** untuk pemangkatan
+
+- Reserved Words: Kumpulan kata-kata yang memiliki makna khusus dalam bahasa pemrograman Python. Kata False, return, dan for merupakan contoh dari reserved words. Catatan: Ternyata, aku tidak dapat mendeklarasikan variabel dengan menggunakan sebuah reserved word! 
+
+- Whitespace: Pada bahasa Python, spasi dan tab memiliki makna khusus untuk menandai serangkaian blok dalam kode Python. Hal ini akan dijelaskan secara lebih lanjut pada bagian struktur pemilihan dan struktur pengulangan pada bahasa Python.
+
+- Comments: Comments merupakan sekumpulan teks yang dituliskan di dalam sebuah program yang tidak akan mempengaruhi hasil dari sebuah program. Walaupun tidak mempengaruhi hasil program, comments merupakan salah satu komponen yang penting dalam pengembangan program. Hal tersebut dikarenakan comments dapat diselipkan di antara sekumpulan statements yang telah dituliskan, untuk berkomunikasi dengan rekan programmer lainnya dalam satu tim. 
+Terdapat dua jenis comments di dalam Python, yaitu:
+
+a. single line comment (comments dalam satu baris) seperti pada contoh berikut:
+```python
+# ini komentar dengan 1 baris
+```
+b. multi line comment (comments dalam beberapa baris) yang dapat dituliskan seperti pada contoh berikut:
+```python
+'''
+ini komentar
+dengan beberapa
+baris
+'''
+```
+
+
