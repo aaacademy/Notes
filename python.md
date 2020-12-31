@@ -129,3 +129,9 @@ Dengan <conditions> berisikan operator yang mengembalikan nilai kebenaran; ataup
 
 
 Dalam menuliskan serangkaian aksi (<do_action_1>, ... , <do_action_n>) dalam sebuah statemen if, aku harus mengemas setiap aksi dalam sebuah blok dengan menambahkan indentasi (jorokan) dari pada aksi.
+
+### Python Primitive Loop Control
+Loop Control merupakan salah satu fitur yang mengizinkan penggunanya untuk melakukan serangkaian aksi, selama suatu kondisi yang telah ditetapkan bernilai benar. Dalam Python, terdapat dua bentuk primitif dari loop kontrol (struktur pengulangan), yaitu
+
+while loops
+for loops
