@@ -51,4 +51,8 @@ name = Asrul
 Tips:
 Dalam mendeklarasikan sebuah variabel, berilah nama yang mewakili isi dari variabel tersebut.
 
+Penamaan suatu variabel pada python dapat dikatakan valid selama memenuhi aturan-aturan berikut:
 
+- Nama dari sebuah variabel harus dimulai dengan huruf (a-z, A-Z) atau karakter garis bawah underscore (_) dan tidak dapat dimulai dengan angka (0-9).
+- Variabel hanya boleh mengandung karakter alfabet dan bilangan dan underscore (a-z, A-Z, 0-9, _)
+- Variabel bersifat case-sensitive yang mengartikan bahwa variabel TINGGI, tinggi, dan Tinggi merujuk pada tiga variabel berbeda.
