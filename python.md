@@ -73,4 +73,9 @@ Tipe data list diawali dengan tanda kurung siku buka ([), memisahkan setiap elem
 ```python
 listku = [1, 4, 8.1]
 ```
+Setelah mempelajari tipe data list. Aku mempelajari tipe data tuple. Tipe data tuple juga berfungsi untuk menampung sekumpulan data. Tipe data tuple diawali dengan tanda kurung buka ( ( ), memisahkan setiap elemen di dalamnya dengan tanda koma ( , ) dan ditutup dengan tanda kurung tutup ( ) ). Sebagai contoh:
 
+```python
+contoh_tuple = ('Juni', 'Juli', 'Agustus', 'September')
+```
+Berbeda dengan tipe data list, tipe data tuple bersifat immutable yang berarti elemen pada tipe data tuple tidak dapat diubah setelah proses pendeklarasiannya.
