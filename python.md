@@ -57,14 +57,14 @@ Penamaan suatu variabel pada python dapat dikatakan valid selama memenuhi aturan
 - Variabel hanya boleh mengandung karakter alfabet dan bilangan dan underscore (a-z, A-Z, 0-9, _)
 - Variabel bersifat case-sensitive yang mengartikan bahwa variabel TINGGI, tinggi, dan Tinggi merujuk pada tiga variabel berbeda.
 
-Tipe Data Dasar: Null, Boolean, Numeric dan Text
+### Tipe Data Dasar: Null, Boolean, Numeric dan Text
 
 1. Null Type: Tipe data null dalam Python digunakan untuk menyimpan nilai kosong atau tidak ada yang dinyatakan dengan None.
 2. Boolean Type: Tipe data boolean atau bool digunakan untuk menyimpan nilai kebenaran (True, False) dari suatu ekspresi logika.
 3. Numeric Type: Tipe data yang digunakan untuk menyimpan data berupa angka. Terdapat dua macam tipe data numeric, yaitu int untuk menyimpan bilangan bulat (e.g.: 0, 1, 2, 404, -500, -1000) dan float untuk menyimpan bilangan riil (e.g.: 0.5, 1.01, 2.05, 4.04)
 4. Text Type: Pada Python, tipe data string (str) digunakan untuk menyimpan data teks. Tipe data string dimulai dengan tanda kutip (baik kutip satu/ dua) dan diakhir dengan tanda kutip. Contoh: "Teks", "Contoh teks menggunakan Python", dan 'Teks pada Python'.
 
-Sequence Type – Part 1
+### Tipe Sequence
 Tipe data ini digunakan untuk menampung sekumpulan data secara terorganisir.
 List dan tuple merupakan bentuk dari tipe data sequence.
 Pada part 1 ini, aku akan mempelajari tipe data list terlebih dahulu.
@@ -79,3 +79,15 @@ Setelah mempelajari tipe data list. Aku mempelajari tipe data tuple. Tipe data t
 contoh_tuple = ('Juni', 'Juli', 'Agustus', 'September')
 ```
 Berbeda dengan tipe data list, tipe data tuple bersifat immutable yang berarti elemen pada tipe data tuple tidak dapat diubah setelah proses pendeklarasiannya.
+
+### TipeSet
+Serupa dengan tipe data sequence, tipe data set digunakan untuk menampung sekumpulan data dengan tipe lainnya. Terdapat dua jenis dari tipe data set yaitu, set dan frozenset.
+
+Tipe data set diawali dengan tanda kurung buka kurawal ( { ), memisahkan setiap elemen di dalamnya dengan tanda koma ( , ) dan ditutup dengan tanda kurung tutup ( } ). Namun, berbeda dengan tipe data sequence, seperti list, tipe data objek tidak mengizinkan adanya elemen dengan nilai yang sama dan tidak memperdulikan urutan dari elemen.
+
+```python
+contoh_set = {'Dewi', 'Budi', 'Cici', 'Linda', 'Cici'}
+print(contoh_set)
+contoh_frozen_set = ({'Dewi', 'Budi', 'Cici', 'Linda', 'Cici'})
+print(contoh_frozen_set)
+```
