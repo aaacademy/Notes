@@ -108,10 +108,10 @@ Operator arithmetic digunakan pada tipe data numerik, untuk melakukan operasi ma
 
 Simbol Operator | Keterangan | Contoh
 :------:|:-----:|:-----:
-+ | Penambahan | 3 + 2 akan menghasilkan output: 5
-- | Pengurangan | 4 - 2 akan menghasilkan output: 2
-* | Perkalian | 3 * 2 akan menghasilkan output: 6
-/ | Pembagian | 3 / 2 akan menghasilkan output: 1.5
-% | Modulo/sisa bagi | 3 % 2 akan menghasilkan output: 1
-** | Pangkat | 3 ** 2 akan menghasilkan output: 9
-// | Pembagian dengan pembulatan ke bawah | 3 / 2 akan menghasilkan output: 1 dikarenakan 1.5 akan menjadi 1 saat dibulatkan ke bawah.
+| + | Penambahan | 3 + 2 akan menghasilkan output: 5
+| - | Pengurangan | 4 - 2 akan menghasilkan output: 2
+| * | Perkalian | 3 * 2 akan menghasilkan output: 6
+| / | Pembagian | 3 / 2 akan menghasilkan output: 1.5
+| % | Modulo/sisa bagi | 3 % 2 akan menghasilkan output: 1
+| ** | Pangkat | 3 ** 2 akan menghasilkan output: 9
+| // | Pembagian dengan pembulatan ke bawah | 3 / 2 akan menghasilkan output: 1 dikarenakan 1.5 akan menjadi 1 saat dibulatkan ke bawah.
