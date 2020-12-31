@@ -115,3 +115,17 @@ Simbol Operator | Keterangan | Contoh
 | % | Modulo/sisa bagi | 3 % 2 akan menghasilkan output: 1
 | ** | Pangkat | 3 ** 2 akan menghasilkan output: 9
 | // | Pembagian dengan pembulatan ke bawah | 3 / 2 akan menghasilkan output: 1 dikarenakan 1.5 akan menjadi 1 saat dibulatkan ke bawah.
+
+### Conditioning for Decision
+Layaknya bahasa pemrograman lainnya, bahasa pemrograman Python menyediakan statemen desisi (decision statement) untuk berinteraksi dengan variabel bertipe boolean dan operator logika. Statemen desisi dalam Python dapat dituliskan dengan menggunakan format berikut,
+
+```
+if conditions:
+    do_action_1
+    ...
+    do_action_n
+```
+Dengan <conditions> berisikan operator yang mengembalikan nilai kebenaran; ataupun beberapa operator yang mengembalikan nilai kebenaran, yang digabungkan dengan operator logika.  Melalui  sebuah statemen desisi (if statement), <do_action_1> sampai dengan <do_action_n> akan dijalankan saat <conditions> bernilai True.
+
+
+Dalam menuliskan serangkaian aksi (<do_action_1>, ... , <do_action_n>) dalam sebuah statemen if, aku harus mengemas setiap aksi dalam sebuah blok dengan menambahkan indentasi (jorokan) dari pada aksi.
