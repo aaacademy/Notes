@@ -107,7 +107,7 @@ print(person['pekerjaan'])
 Operator arithmetic digunakan pada tipe data numerik, untuk melakukan operasi matematika sederhana yang terdiri atas:
 
 Simbol Operator | Keterangan | Contoh
-------|-----|-----
+:------:|:-----:|:-----:
 + | Penambahan | 3 + 2 akan menghasilkan output: 5
 - | Pengurangan | 4 - 2 akan menghasilkan output: 2
 * | Perkalian | 3 * 2 akan menghasilkan output: 6
