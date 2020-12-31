@@ -39,5 +39,16 @@ dengan beberapa
 baris
 '''
 ```
+### Variables
+
+Pada bagian ini, aku akan mengkaji variabel dan tipe data secara lebih detil. Pada pertemuan sebelumnya aku berhasil mendeklarasikan variabel dengan menggunakan ekspresi seperti:
+```python
+bil1 = 10
+bil2 = 3
+name = Asrul
+```
+
+Tips:
+Dalam mendeklarasikan sebuah variabel, berilah nama yang mewakili isi dari variabel tersebut.
 
 
